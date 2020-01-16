@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmail-user-manager/gmail-user-manager.iml" filepath="$PROJECT_DIR$/gmail-user-manager/gmail-user-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmallw.iml" filepath="$PROJECT_DIR$/gmallw.iml" />
+    </modules>
+  </component>
+</project>
